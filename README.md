@@ -17,4 +17,6 @@ Notepad程序：
 ![](https://github.com/wangweisheng/NotePad/blob/master/image/6.jpg)<br>
 
 更改背景：
+
+
 ![](https://github.com/wangweisheng/NotePad/blob/master/image/5.jpg)<br>
