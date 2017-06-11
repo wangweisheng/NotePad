@@ -30,4 +30,11 @@ Notepad程序：
 点击菜单栏的Background后,出现颜色选择器，在上面可以任意选择颜色：
 
 
+
+![](https://github.com/wangweisheng/NotePad/blob/master/image/点击修改背景.png)<br>
+
 ![](https://github.com/wangweisheng/NotePad/blob/master/image/5.jpg)<br>
+
+更改完效果图：
+![](https://github.com/wangweisheng/NotePad/blob/master/image/修改背景色后的效果.png)<br>
+
