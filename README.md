@@ -31,10 +31,9 @@ Notepad程序：
 
 
 
-![](https://github.com/wangweisheng/NotePad/blob/master/image/点击修改背景.png)<br>
+
 
 ![](https://github.com/wangweisheng/NotePad/blob/master/image/5.jpg)<br>
 
-更改完效果图：
-![](https://github.com/wangweisheng/NotePad/blob/master/image/修改背景色后的效果.png)<br>
+
 
